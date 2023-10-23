@@ -17,19 +17,19 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > | ANSWER HERE |
+  > | onMount and onUnmount, onMount will run functions on page load, unmount will run functions as soon as you leave a page |
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > |  |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > | ANSWER HERE |
+  > | The AppState stores data for the entire application while the state object just stores data for specific component it's in |
 
 08. What is the responsibility of `Services` in our Vue projects?
 
-  > | ANSWER HERE |
+  > | to change variables stored in the AppState and handle functions we want abstracted away from the user |
 
 09. What are ***props*** and how are they used? Provide an example
 
