@@ -1,19 +1,19 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | ANSWER HERE |
+  > | the home page |
 
 02. What is the difference between a vue `component` and `page`?
 
-  > | ANSWER HERE |
+  > | A page is the parent of a component |
 
 03. What is ***Component-Based Architecture***?
 
-  > | ANSWER HERE |
+  > | a style of software engineering that aims to build software out of loosely-coupled, modular components. Copied directly from google |
 
 04. What are the three tags that make up a Vue component?
 
-  > | ANSWER HERE |
+  > | component slot template |
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
@@ -21,7 +21,7 @@
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > |  |
+  > | pages |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
@@ -33,8 +33,8 @@
 
 09. What are ***props*** and how are they used? Provide an example
 
-  > | ANSWER HERE |
+  > | they import variables from parent objects and give them a new name to use in a component |
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+  > | compute|
